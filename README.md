@@ -1,2 +1,2 @@
-# Project1
-FrontEnd Website using HTML5, CSS and Bootstrap
+# projectHomePage
+Front-End website using HTML5, CSS and Bootstrap
